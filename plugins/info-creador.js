@@ -28,8 +28,8 @@ let buttonMessage= {
 {buttonId: `${usedPrefix}donar`, buttonText: {displayText: '📮 𝙳𝙾𝙽𝙰𝚁 📮'}, type: 1}],
 'headerType': 6 }
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
-//let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;@geral_ventas 👑;;;\nFN:@geral_ventas 👑\nORG:@geral_ventas 👑\nTITLE:\nitem1.TEL;waid=5219996125657:+521 999 612 5657\nitem1.X-ABLabel:@geral_ventas 👑\nX-WA-BIZ-DESCRIPTION:[❗] ᴄᴏɴᴛᴀᴄᴛᴀ ᴀ ᴇsᴛᴇ ɴᴜᴍ ᴘᴀʀᴀ ᴄᴏsᴀs ɪᴍᴘᴏʀᴛᴀɴᴛᴇs.\nX-WA-BIZ-NAME:@geral_ventas 👑\nEND:VCARD`
-//await conn.sendMessage(m.chat, { contacts: { displayName: '@geral_ventas 👑', contacts: [{ vcard }] }}, {quoted: m})
+//let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;@geral_ventas18 👑;;;\nFN:@geral_ventas18 👑\nORG:@geral_ventas18 👑\nTITLE:\nitem1.TEL;waid=5219996125657:+521 999 612 5657\nitem1.X-ABLabel:@geral_ventas 👑\nX-WA-BIZ-DESCRIPTION:[❗] ᴄᴏɴᴛᴀᴄᴛᴀ ᴀ ᴇsᴛᴇ ɴᴜᴍ ᴘᴀʀᴀ ᴄᴏsᴀs ɪᴍᴘᴏʀᴛᴀɴᴛᴇs.\nX-WA-BIZ-NAME:@geral_ventas 👑\nEND:VCARD`
+//await conn.sendMessage(m.chat, { contacts: { displayName: '@geral_ventas18 👑', contacts: [{ vcard }] }}, {quoted: m})
 //const data = global.owner.filter(([id, isCreator]) => id && isCreator)
 //await conn.sendContact(m.chat, data.map(([id, name]) => [id, name]), m)
 }

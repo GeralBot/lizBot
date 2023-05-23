@@ -12,7 +12,7 @@ let str = `╭────[ *𝐆𝐞𝐫𝐚𝐥𝐝 𝐁𝐨𝐭* ]
 │ *=> 🤖 ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:* ${uptime}
 │ *=> ✅ ʙᴏᴛ ᴅᴇ ᴜsᴏ ᴘᴜʙʟɪᴄᴏ*
 │ *=> 👑 ᴄʀᴇᴀᴅᴏʀ: Geral*
-│ *=> 🔗 ᴄᴜᴇɴᴛᴀs ᴏғᴄ:* https://www.instagram.com/geral_ventas/
+│ *=> 🔗 ᴄᴜᴇɴᴛᴀs ᴏғᴄ:* https://www.instagram.com/geral_ventas18/
 ╰────────────────`.trim()
 let buttons = [{ buttonId: '#menu', buttonText: { displayText: '💫 𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻 💫' }, type: 1 }]
 let buttonMessage = { image: pp, caption: str.trim(), mentions: [m.sender], footer: global.wm, buttons: buttons, headerType: 4, contextInfo: { mentionedJid: [m.sender], externalAdReply: { showAdAttribution: true, mediaType: 'VIDEO', mediaUrl: null, title: '𝙲𝚄𝙴𝙽𝚃𝙰𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻𝙴𝚂', body: '𝙱𝚈 @Aleizn', thumbnail: img, sourceUrl: `https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo`}}}
@@ -20,7 +20,7 @@ conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 } catch {
 let _uptime = process.uptime() * 1000
 let uptime = clockString(_uptime)    
-throw `*🤖 ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ: ${uptime} ┃ 👑 𝗕𝗬 𝐆𝐞𝐫𝐚𝐥𝐝 𝐁𝐨𝐭 ┃ 🔗 ᴄᴜᴇɴᴛᴀs ᴏғᴄ: https://www.instagram.com/geral_ventas/*`}}
+throw `*🤖 ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ: ${uptime} ┃ 👑 𝗕𝗬 𝐆𝐞𝐫𝐚𝐥𝐝 𝐁𝐨𝐭 ┃ 🔗 ᴄᴜᴇɴᴛᴀs ᴏғᴄ: https://www.instagram.com/geral_ventas18/*`}}
 handler.help = ['estado']
 handler.tags = ['main']
 handler.command = /^(estado|status|estate|state|stado|stats|runtime|uptime)$/i
