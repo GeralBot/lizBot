@@ -5,7 +5,7 @@ let img = await(await fetch('https://github.com/BrunoSobrino.png')).buffer()
 let _uptime = process.uptime() * 1000
 let uptime = clockString(_uptime)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭────[ *𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭* ]
+let str = `╭────[ *𝙱𝚘𝚝 𝚍𝚎 @𝚕𝚒𝚣𝚒.𝚣𝚎𝚟𝟶𝟺* ]
 │
 │ *➤ ʜᴏʟᴀ ${taguser}*
 │
