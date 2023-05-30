@@ -8,14 +8,14 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['51917545642', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601', '@𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601', '@𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601', '@𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601', '@𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601', '@𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601', '@𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],  
-  ['51992621601', '@𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],	
+  ['51917545642', '𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],
+  ['51992621601', '@𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],
+  ['51992621601', '@𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],
+  ['51992621601', '@𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],
+  ['51992621601', '@𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],
+  ['51992621601', '@𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],
+  ['51992621601', '@𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],  
+  ['51992621601', '@𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭', true],	
   ['51992621601'],
   ['51992621601'],
   ['51992621601'],	
@@ -25,10 +25,10 @@ global.owner = [
 global.suittag = ['51992621601'] 
 global.prems = ['51992621601'] 
 
-global.packname = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
-global.author = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
-global.wm = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
-global.igfg = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
+global.packname = '𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭'
+global.author = '𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭'
+global.wm = '𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭'
+global.igfg = '𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -431,8 +431,8 @@ global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
 global.wm2 = `▸ ${dia} ${fecha}\n▸ MafiaChilena`
-global.gt = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
-global.mysticbot = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
+global.gt = '𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭'
+global.mysticbot = '𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭'
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
