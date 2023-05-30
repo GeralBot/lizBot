@@ -1,6 +1,6 @@
 # Botprueba
 ### `—◉ 👑 ¡Hola! Geral Bot?, CONTACTAME 👑`
-<a href="http://wa.me/+51935763050" target="blank"><img src="https://img.shields.io/badge/Ale-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/+51935763050" target="blank"><img src="https://img.shields.io/badge/Geral Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
